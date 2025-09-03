@@ -3,7 +3,6 @@
 
 int main(void) {
 
-
     int c = 1;
     while (c > 0) {
         if (c == 1) {

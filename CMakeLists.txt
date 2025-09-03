@@ -4,4 +4,7 @@ project(C C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(C
-        nota.c)
+        Nota/nota.c
+        Soma/soma.c
+        Subtração/subtracao.c
+)
