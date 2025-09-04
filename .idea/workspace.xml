@@ -18,7 +18,7 @@
   </component>
   <component name="CMakeRunConfigurationManager">
     <generated>
-      <config projectName="C" targetName="C" />
+      <config projectName="C_Project" targetName="C_Project" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -28,11 +28,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c7dd60e-3a6e-41ca-96dc-2266e6a33d71" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Subtração/subtracao.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Altura/altura.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nota.c" beforeDir="false" afterPath="$PROJECT_DIR$/Nota/nota.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +61,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "C/C++ File.altura.c.executor": "Run",
     "C/C++ File.soma.c (1).executor": "Run",
     "C/C++ File.soma.c.executor": "Run",
     "C/C++ File.subtracao.c.executor": "Run",
@@ -69,6 +69,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.RadMigrateCodeStyle": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
@@ -88,28 +89,42 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Altura" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Nota" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.subtracao.c">
+  <component name="RunManager" selected="C/C++ File.soma.c">
     <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="CLION.EXTERNAL.BUILD" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="C" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C" RUN_TARGET_NAME="C">
+    <configuration name="C_Project" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Project" TARGET_NAME="C_Project" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C_Project" RUN_TARGET_NAME="C_Project">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="soma.c (1)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="soma.c (1)" CONFIG_NAME="soma.c (1)">
+    <configuration name="altura.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Project" TARGET_NAME="altura.c" CONFIG_NAME="altura.c">
+      <option name="sourceFile" value="Altura/altura.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="soma.c (1)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Project" TARGET_NAME="soma.c (1)" CONFIG_NAME="soma.c (1)">
       <option name="sourceFile" value="Soma/soma.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="soma.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="soma.c" CONFIG_NAME="soma.c">
-      <option name="sourceFile" value="soma.c" />
+    <configuration name="soma.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Project" TARGET_NAME="soma.c" CONFIG_NAME="soma.c">
+      <option name="sourceFile" value="Soma/soma.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="soma.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Project" TARGET_NAME="soma.c" CONFIG_NAME="soma.c">
+      <option name="sourceFile" value="Soma/soma.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -121,15 +136,16 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="C/C++ File.soma.c (1)" />
-      <item itemvalue="C/C++ File.subtracao.c" />
       <item itemvalue="C/C++ File.soma.c" />
-      <item itemvalue="CMake Application.C" />
+      <item itemvalue="C/C++ File.altura.c" />
+      <item itemvalue="C/C++ File.subtracao.c" />
+      <item itemvalue="CMake Application.C_Project" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="C/C++ File.subtracao.c" />
         <item itemvalue="C/C++ File.soma.c" />
+        <item itemvalue="C/C++ File.altura.c" />
+        <item itemvalue="C/C++ File.subtracao.c" />
       </list>
     </recent_temporary>
   </component>
@@ -141,7 +157,9 @@
       <option name="presentableId" value="Default" />
       <updated>1756338965252</updated>
       <workItem from="1756338971505" duration="52000" />
-      <workItem from="1756940415781" duration="2313000" />
+      <workItem from="1756940415781" duration="3634000" />
+      <workItem from="1756947882206" duration="474000" />
+      <workItem from="1756949293821" duration="685000" />
     </task>
     <servers />
   </component>
