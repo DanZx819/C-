@@ -8,4 +8,5 @@ add_executable(C_Project
         Soma/soma.c
         Subtração/subtracao.c
         Altura/altura.c
+        Recursividade/recursividade.c
 )
