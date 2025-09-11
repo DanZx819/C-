@@ -8,5 +8,8 @@ add_executable(C_Project
         Soma/soma.c
         Subtração/subtracao.c
         Altura/altura.c
-        Recursividade/recursividade.c
+        Recursividade/iterativa.c
+        Recursividade/recursiva.c
+        Arrays/main.c
+        Arrays/main.c
 )
