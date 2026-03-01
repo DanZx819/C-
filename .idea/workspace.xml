@@ -28,11 +28,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c7dd60e-3a6e-41ca-96dc-2266e6a33d71" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Arrays/main.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursividade/recursiva.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recursividade/recursividade.c" beforeDir="false" afterPath="$PROJECT_DIR$/Recursividade/iterativa.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,6 +99,11 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="altura.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Project" TARGET_NAME="altura.c" CONFIG_NAME="altura.c">
       <option name="sourceFile" value="Altura/altura.c" />
       <method v="2">
@@ -140,12 +141,12 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="CMake Application.C_Project" />
+      <item itemvalue="C/C++ File.soma.c (1)" />
       <item itemvalue="C/C++ File.altura.c" />
       <item itemvalue="C/C++ File.recursiva.c" />
-      <item itemvalue="C/C++ File.soma.c (1)" />
       <item itemvalue="C/C++ File.soma.c" />
       <item itemvalue="C/C++ File.subtracao.c" />
+      <item itemvalue="CMake Application.C_Project" />
     </list>
     <recent_temporary>
       <list>
@@ -169,6 +170,7 @@
       <workItem from="1756949293821" duration="685000" />
       <workItem from="1757544378804" duration="3032000" />
       <workItem from="1757551330610" duration="89000" />
+      <workItem from="1762296585677" duration="76000" />
     </task>
     <servers />
   </component>
