@@ -5,7 +5,7 @@
 int main() {
 
     int *array = NULL;
-    int tamanho = 0;
+    int t = 0;
     int num;
 
     printf("Digite numeros (-1 para parar):\n");
@@ -17,7 +17,7 @@ int main() {
             break;
         }
 
-        tamanho++;
+        t++;
 
         array = realloc(array, tamanho * sizeof(int));
 
