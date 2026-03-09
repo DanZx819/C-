@@ -11,9 +11,9 @@ int main() {
     printf("Fatorial = %d\n", fatorial);
 }
 
-int fat(x) {
+int fat(xv) {
     for (int i = x - 1; i > 0; i--) {
-        x *= i;
+        xv *= i;
     }
-    return x;
+    return xv;
 }
